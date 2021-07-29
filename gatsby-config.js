@@ -4,7 +4,6 @@ module.exports = {
         description: "Personal page of Tim Andersen",
         locale: "en",
         title: "Tim Andersen",
-        showThemeLogo: false,
         formspreeEndpoint: "https://formspree.io/f/xvodwzvw",
     },
     plugins: [
@@ -13,7 +12,7 @@ module.exports = {
             options: {
                 basePath: "/",
                 contentPath: "content/",
-                showThemeLogo: false,
+                showThemeLogo: true,
                 theme: "dark-blue",
             },
         },
