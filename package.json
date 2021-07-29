@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public -b deploy"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b deploy"
   },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
