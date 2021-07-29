@@ -1,0 +1,37 @@
+- name: linkedin
+  url: www.linkedin.com/in/tim-john-andersen
+
+
+- name: twitter
+#  url: https://twitter.com/username
+
+- name: facebook
+  url:
+
+- name: instagram
+  url: https://www.instagram.com/tj.anderss
+
+- name: dribbble
+  url:
+
+- name: behance
+  url:
+
+- name: producthunt
+  url:
+
+- name: github
+  url: https://github.com/tjands
+
+- name: goodreads
+  url:
+
+- name: xing
+  url:
+
+- name: youtube
+  url:
+
+- name: medium
+  url:
+
