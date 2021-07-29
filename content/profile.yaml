@@ -1,0 +1,33 @@
+- profile:
+  initials: TJA
+  name: Tim Andersen
+  profession: Web Developer
+  image: images/IMG_0159.jpg
+  location: Sydney, Australia
+  relocation: false
+  company: The Graphic Design School
+  for_hire: false
+  focus: Catching up on the latest Gatsby news!
+  focus_url: https://gatsbyjs.org
+  about: |
+    With a love of functional programming and mathematics, Tim has over 5 years of experience working in the information and technology sector in Sydney Australia.
+
+    Tim has 3 years on daily experience in developing JavaScript solutions; including creating a fullstack Customer Relationship Manager (CRM), customising and translating into React a Learner Management System (LMS) and creating several Front-End Websites, including online shops.
+
+    As part of his work as a Web Design Tutor Tim has worked with a small team to write a 6 month course on Website Design, User Interaction Design and User Experience.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - NodeJS
+  tools:
+    - React
+    - TailwindCSS
+    - Gatsby
+    - NextJS
+    - Styled Components
+#    -
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
