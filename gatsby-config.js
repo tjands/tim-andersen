@@ -1,5 +1,5 @@
 module.exports = {
-    // pathPrefix:"/tim-andersen",
+    pathPrefix:"/tim-andersen/",
     siteMetadata: {
         description: "Personal page of Tim Andersen",
         locale: "en",
